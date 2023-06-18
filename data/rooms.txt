@@ -1,0 +1,33 @@
+[Room1]
+Name=Room 1
+Description=This is the first room.
+
+[Room2]
+Name=Room 2
+Description=This is the second room.
+
+[Room3]
+Name=Room 3
+Description=This is the third room.
+
+[Room4]
+Name=Room 4
+Description=This is the fourth room.
+
+[Pathways]
+Room1->Room2
+Room2->Room1
+Room2->Room3
+Room3->Room2
+Room3->Room4
+Room4->Room3
+
+[Items]
+Room1->Key
+Room2->Sword
+Room3->Potion
+
+[Characters]
+Room1->Player
+Room2->NPC1
+Room3->NPC2

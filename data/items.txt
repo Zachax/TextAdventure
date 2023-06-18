@@ -1,0 +1,19 @@
+Key
+A small key used for unlocking doors.
+movable
+
+Sword
+A sharp sword for battling enemies.
+movable
+
+Book
+An ancient book filled with knowledge.
+movable
+
+Table
+A heavy wooden table.
+movable
+
+Chair
+A comfortable chair for sitting.
+movable
